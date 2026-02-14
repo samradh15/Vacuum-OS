@@ -152,16 +152,6 @@ Vaccum OS was built to practice:
 
 ---
 
-## ✦ Screenshots
-
-_(Add screenshots here if desired)_  
-- Landing  
-- Focus session  
-- Output velocity  
-- Canvas
-
----
-
 ## ✦ Author
 
 **samradh agarwal**  
